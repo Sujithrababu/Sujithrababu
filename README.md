@@ -10,9 +10,9 @@ I'm passionate about creating end-to-end solutions that blend cutting-edge techn
 
 - 🎓 B.Tech IT Student at KGISL Institute of Technology (CGPA: 9.11)
 - 💼 Data Science Intern at Cognifyz Technologies & Skill Craft Technology
-- 🔐 Specialized in Biometric Security & AI-Based Authentication
+- 🔐 Specialized in AI/ML integration, data pipelines, and real-time applications.
 - 📍 Based in Coimbatore, India
-- 📧 Email: s25509777@gmail.com | 📱 +91-6385290257
+- 📧 Email: s25509777@gmail.com
 
 ---
 
@@ -156,10 +156,9 @@ A full-featured desktop quiz application with networking and leaderboards.
 
 ## 🌐 Let's Connect
 
-- 💼 **LinkedIn:** [sujithra-b](https://www.linkedin.com/in/sujithra-b-a27390287)
-- 🐙 **GitHub:** [@Sujithra](https://github.com/Sujithra)
+- 💼 **LinkedIn:** (https://www.linkedin.com/in/sujithra-b-a27390287)
+- 🐙 **GitHub:** (https://github.com/Sujithra)
 - 📧 **Email:** s25509777@gmail.com
-- 📱 **Phone:** +91-6385290257
 
 ---
 
